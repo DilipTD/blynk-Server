@@ -14,9 +14,9 @@ If you need more information, please follow these links:
 * [Kickstarter](https://www.kickstarter.com/projects/167134865/blynk-build-an-app-for-your-arduino-project-in-5-m/description)
 
 ![Dashboard settings](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/dash_settings.png)
-![Widgets Box](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/widgets_box.png)
-![Dashboard](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/dash.png)
-![Dashboard2](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/dash2.png)
+![Widgets Box](https://github.com/deepu083/blynk-server/blob/master/docs/overview/widgets_box.png)
+![Dashboard](https://github.com/deepu083/blynk-server/blob/master/docs/overview/dash.png)
+![Dashboard2](https://github.com/deepu083/blynk-server/blob/master/docs/overview/dash2.png)
 
 # Content 
 
